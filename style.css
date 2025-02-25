@@ -151,10 +151,11 @@ ol li::marker {
         background-color: var(--ston1);
         display: flex;
         justify-content: center;
+        font-size: 1rem;
     }
 
     main {
-        width: 500px;
+        width: 650px;
         margin: 4rem;
         border-radius: 10px;
         overflow: hidden; /* Add this to ensure content doesn't overflow */
